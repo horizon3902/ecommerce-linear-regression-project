@@ -4,7 +4,7 @@ Using linear regression, we find out the most beneficial area to focus on for an
 
 
 
-### Kshitij Agarkar, IITN, 2021
+### Kshitij Agarkar, IIITN, 2021
 
 ### Contact: -	
 
