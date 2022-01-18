@@ -1,4 +1,4 @@
-# E-Commerce Company Linear Regression 	 Project
+# E-Commerce Company Linear Regression Project
 
 Using linear regression, we find out the most beneficial area to focus on for an E-Commerce company. Should they improve their website or focus on their app? Let's find out!
 
